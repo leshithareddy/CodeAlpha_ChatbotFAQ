@@ -1,0 +1,22 @@
+# 🤖 AI FAQ Chatbot
+
+This project was developed as part of the CodeAlpha Artificial Intelligence Internship.
+
+## 📌 Features
+- NLP preprocessing using SpaCy
+- FAQ matching using TF-IDF
+- Cosine similarity-based response system
+- Interactive chatbot UI using Streamlit
+
+## 🛠 Technologies Used
+- Python
+- SpaCy
+- Scikit-learn
+- Streamlit
+
+## 🚀 How to Run
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
